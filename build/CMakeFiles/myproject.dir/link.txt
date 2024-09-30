@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myproject.dir/main.cpp.o -o myproject  lib/libmylib.a /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

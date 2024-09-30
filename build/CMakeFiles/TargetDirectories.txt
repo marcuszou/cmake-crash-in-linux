@@ -1,0 +1,6 @@
+/home/zenusr/projects/cmake-intro/build/CMakeFiles/myproject.dir
+/home/zenusr/projects/cmake-intro/build/CMakeFiles/edit_cache.dir
+/home/zenusr/projects/cmake-intro/build/CMakeFiles/rebuild_cache.dir
+/home/zenusr/projects/cmake-intro/build/lib/CMakeFiles/mylib.dir
+/home/zenusr/projects/cmake-intro/build/lib/CMakeFiles/edit_cache.dir
+/home/zenusr/projects/cmake-intro/build/lib/CMakeFiles/rebuild_cache.dir
