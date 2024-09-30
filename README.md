@@ -37,23 +37,50 @@ Check the version:
 cmake --version
 ```
 
+I have "version 3.28.3" as of September 2024.
+
 
 
 ## CMake Crash Course by PunchedTape
 
 Resource: [Introduction to CMake Crash Course](https://www.youtube.com/watch?v=7YcbaupsY8I) by PunchedTape
 
-18,526 views  Jun 11, 2022
+18,526 views |  Jun 11, 2022
+
 CMake introduction for absolute beginners.  How to install CMake, create a CMake Project, use sub-directories, and link to libraries.
 
 00:00 Overview
+
 00:30 Installation
+
 00:48 What does CMake do?
+
 01:21 Quickstart CMake Project
+
 02:32 Building with CMake
+
 03:31 CMake variables, PROJECT_NAME
+
 04:38 Building executables & libraries (static and shared)
+
 06:02 Using project libraries
+
 07:37 Using subdirectories
+
 10:58 Finding and linking to external libraries
+
 12:30 Setting C++ standard
+
+
+
+## Notes
+
+- The "**main**" app is associated with the '**Makefile**' - the conventional method.
+
+- The project program "**myprogram**" is actually located in '**build**' sub-folder conjuncted with the **CMakeLists.txt** file - the modern method.
+
+ 
+
+## License
+
+MIT
